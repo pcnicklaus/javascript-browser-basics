@@ -1,0 +1,1 @@
+Created a blank HTML 5 document, created a javascript file, wrote the code for the JS to ask the user their name when they come to the website and then concatenate their name and alert the user, "Hello their name".
